@@ -5,8 +5,7 @@ tags:
   - test
   - tags
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Blog 테스트를 위한 첫 번째 게시글
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
