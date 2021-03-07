@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+SW Architect & Product Manager
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+SKHynix
+Samsung Techwin
+Naver
+LG Electronics
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[freyr79@hotmail.com](mailto:freyr79@hotmail.com)
