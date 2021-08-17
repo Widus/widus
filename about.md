@@ -9,6 +9,7 @@ SW Architect & Product Manager
 ### More Information
 
 SKHynix
+Hanwha Aerospace
 Samsung Techwin
 Naver
 LG Electronics
